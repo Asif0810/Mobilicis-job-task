@@ -6,12 +6,12 @@ here is all link :
 
 <!-- task -->
 
-live site : https://polite-mousse-13e5a9.netlify.app/
-vercel(backend server) : https://mobilicis-job-server.vercel.app/
+> Live site : https://polite-mousse-13e5a9.netlify.app/
+> Vercel(backend server) : https://mobilicis-job-server.vercel.app/
 
 <!-- code link -->
 
-frontend(Github) : https://github.com/Asif0810/Mobilicis-job-task
-backend(Github) : https://github.com/Asif0810/Mobilicis-task-server
+> Frontend(Github) : https://github.com/Asif0810/Mobilicis-job-task
+> Backend(Github) : https://github.com/Asif0810/Mobilicis-task-server
 
-thank you !!
+Thank you !!
