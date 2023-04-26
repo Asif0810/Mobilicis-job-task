@@ -6,7 +6,9 @@ const Topcities = () => {
   const { data: allusers = [] } = useQuery({
     queryKey: ["user"],
     queryFn: () =>
-      fetch("http://localhost:5000/user").then((res) => res.json()),
+      fetch("https://mobilicis-job-server.vercel.app/user").then((res) =>
+        res.json()
+      ),
   });
 
   // cheking
